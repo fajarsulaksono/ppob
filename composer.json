@@ -1,16 +1,16 @@
 {
-    "name": "rick20/ppob",
+    "name": "fajarsulaksono/ppob",
     "description": "PPOB Multi Pulsa API PHP Library.",
     "authors": [
         {
-            "name": "Ricky",
-            "email": "lie.ricky@gmail.com"
+            "name": "Fjr",
+            "email": "fajar.sulaksono@gmail.com"
         }
     ],
     "require": {
-        "php": ">=7.1.3",
-        "guzzlehttp/guzzle": "6.3.*",
-        "illuminate/support": "^6.0"
+        "php": ">=7.2.5",
+        "guzzlehttp/guzzle": "^6.3",
+        "illuminate/support": "^6.0|^7.0|^8.0"
     },
     "autoload": {
         "psr-4": {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Rick20\PPOB\Products;
+namespace Fajarsulaksono\PPOB\Products;
 
-use Rick20\PPOB\PulsaTrait;
+use Fajarsulaksono\PPOB\PulsaTrait;
 
 class PaketData extends GenericProduct
 {

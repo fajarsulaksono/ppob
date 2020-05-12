@@ -1,8 +1,8 @@
 <?php
 
-namespace Rick20\PPOB\Products;
+namespace Fajarsulaksono\PPOB\Products;
 
-use Rick20\PPOB\Contracts\Product;
+use Fajarsulaksono\PPOB\Contracts\Product;
 
 class GenericProduct implements Product
 {

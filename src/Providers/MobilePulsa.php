@@ -1,14 +1,14 @@
 <?php
 
-namespace Rick20\PPOB\Providers;
+namespace Fajarsulaksono\PPOB\Providers;
 
 use GuzzleHttp\Client;
-use Rick20\PPOB\Products\Pulsa;
-use Rick20\PPOB\AbstractProvider;
-use Rick20\PPOB\Contracts\Product;
-use Rick20\PPOB\Products\TokenPLN;
-use Rick20\PPOB\Products\PaketData;
-use Rick20\PPOB\Products\TopupRequest;
+use Fajarsulaksono\PPOB\Products\Pulsa;
+use Fajarsulaksono\PPOB\AbstractProvider;
+use Fajarsulaksono\PPOB\Contracts\Product;
+use Fajarsulaksono\PPOB\Products\TokenPLN;
+use Fajarsulaksono\PPOB\Products\PaketData;
+use Fajarsulaksono\PPOB\Products\TopupRequest;
 
 class MobilePulsa extends AbstractProvider
 {

@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Rick20\\PPOB\\": "src/"
+            "Fajarsulaksono\\PPOB\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Rick20\\PPOB\\PPOBServiceProvider"
+                "Fajarsulaksono\\PPOB\\PPOBServiceProvider"
             ]
         }
     },

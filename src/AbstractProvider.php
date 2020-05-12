@@ -1,10 +1,10 @@
 <?php
 
-namespace Rick20\PPOB;
+namespace Fajarsulaksono\PPOB;
 
 use GuzzleHttp\Client;
-use Rick20\PPOB\Contracts\Product;
-use Rick20\PPOB\Contracts\Provider;
+use Fajarsulaksono\PPOB\Contracts\Product;
+use Fajarsulaksono\PPOB\Contracts\Provider;
 
 abstract class AbstractProvider implements Provider
 {

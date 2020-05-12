@@ -1,6 +1,6 @@
 <?php
 
-namespace Rick20\PPOB;
+namespace Fajarsulaksono\PPOB;
 
 use Illuminate\Support\ServiceProvider;
 
